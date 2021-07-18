@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- ![GitHub Logo](pic1.jpg) -->
 
 
-## Who am I? 🤹‍♀️
+## 🧐 Who am I?
 
 * 👩‍💻 Data Science Master's Student at Leiden University 📜.
 * 👩‍🎓 Bachelor of Economics -UFRGS.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  * 👩‍🏫 Teacher.
 -->
 
-## Skills in development 💻
+## 💻 Skills in development
 
  * 🐍 Python.
  * 📈 R.
