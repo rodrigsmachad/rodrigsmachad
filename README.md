@@ -17,41 +17,41 @@ Here are some ideas to get you started:
 
  # **Hi, I'm Maria** 👩‍💻 👋 
 ###  
-<!--![GitHub Logo](ju1_git.png)
--->
 
-## Who am I? 
 
-* 👩‍💻 Data Science Master's Student at Leiden University 🥰.
+<!-- ![GitHub Logo](pic1.jpg) -->
+
+
+## Who am I? 🤹‍♀️
+
+* 👩‍💻 Data Science Master's Student at Leiden University 📜.
+* 👩‍🎓 Bachelor of Economics -UFRGS.
+* 🎓 Bachelor in Accounting - UNIP.
+* 📚 Specialist in Public Finance - UNISUL.
+
 <!-- * 📊 Business consultant.
  * 📚 Researcher.
  * 👩‍🏫 Teacher.
 -->
-* 👩‍🎓 Bachelor of Economics -UFRGS.
-* 🎓 Bachelor in Accounting - UNIP.
-* 🍾 Specialist in Public Finance - UNISUL.
 
-## Skills 👩‍💻
+## Skills in development 💻
 
-<!--
  * 🐍 Python.
  * 📈 R.
  * 🗄 SQL.
- * 💻 SAS.
  * 🧮 Power BI.
  * 🔮 Machine Learning. 
  * 📊 Data Visualization
- * 🧪 Survival Analysis.
--->
+ 
 
-## 📫 How to reach me: :earth_americas:
+## 📫 How to reach me: :earth_africa:
 
  *  [Linkedin]( https://www.linkedin.com/in/mrodriguesmachado/)
  *  [Instagram]( https://www.instagram.com/rodrigues_machado_/)
 <!-- *  [Blog](https://www.flai.com.br/juscudilio/)
 -->
 
-## **My projects**
+<!-- ## **My projects** -->
 
 <!--
 - * [Churn Model](https://github.com/scudilio/Churn_model)
